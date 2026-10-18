@@ -1,0 +1,11 @@
+{
+  "org": "miguelgrinberg",
+  "repo": "Flask-HTTPAuth",
+  "versions": [
+    {
+      "commit": "9ff38c687513d7395764bc66ffd47350d4447687",
+      "tag": "",
+      "parsed_at": "2026-10-18T13:19:06.765019+00:00"
+    }
+  ]
+}
