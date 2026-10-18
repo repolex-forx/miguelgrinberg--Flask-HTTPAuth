@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/miguelgrinberg/Flask-HTTPAuth/commit/9ff38c687513d7395764bc66ffd47350d4447687",
       "git:hexsha": "9ff38c687513d7395764bc66ffd47350d4447687",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/miguelgrinberg/Flask-HTTPAuth/commit/06d2612b61330d94e0e12f54440a5daa70aaec8b",
